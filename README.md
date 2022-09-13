@@ -13,7 +13,7 @@
 
 
 ➡️ Operaçoes<br><br>
-➡️ Condiionais<br><br>
+➡️ Condicionais<br><br>
 ➡️ Manipulação de DOM<br><br>
 ➡️ Estrutura de Dados.<br><br>
 ➡️ JavaScript Assíncrono<br><br>

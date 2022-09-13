@@ -12,9 +12,9 @@
 <h2 align="center">Fundamentos estudados:</h2>
 
 
- 
+➡️ Operaçoes<br><br>
+➡️ Condiionais<br><br>
 ➡️ Manipulação de DOM<br><br>
 ➡️ Estrutura de Dados.<br><br>
-
 ➡️ JavaScript Assíncrono<br><br>
 ➡️ Promisses

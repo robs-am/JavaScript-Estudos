@@ -14,6 +14,7 @@
 
 ➡️ Operaçoes<br><br>
 ➡️ Condicionais<br><br>
+➡️ Loops<br><br>
 ➡️ Manipulação de DOM<br><br>
 ➡️ Estrutura de Dados.<br><br>
 ➡️ JavaScript Assíncrono<br><br>

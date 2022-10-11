@@ -17,7 +17,7 @@
 ➡️ Loops<br><br>
 ➡️ Manipulação de DOM<br><br>
 ➡️ Estrutura de Dados.<br><br>
-➡️ Métodos Arrays (forEach, Map, Reduce)<br><br>
-➡️ JavaScript Assíncrono<br><br><br>
-➡️ Promisses<br><br>
+➡️ Métodos Arrays (forEach, Map, Reduce)<br>
+➡️ JavaScript Assíncrono<br><br><
+➡️ Promisses<br>
 ➡️ Consumo de Apis<br><br>

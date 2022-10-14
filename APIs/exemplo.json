@@ -8,6 +8,13 @@
     ],
     "hobbies": {
         "semana": "musculação",
-        "fim_de_semana": "shows"
+        "fim_de_semana": {
+            "sabado":"shows",
+            "domingo": "parque",
+            "outros": [
+                "exposições",
+                "yoga",
+                "cinema"
+            ]
     }
 }

@@ -1,0 +1,13 @@
+{
+    "nome":"Roberta Amaro",
+    "cidade": "Rio de Janeiro",
+    "livros_favoritos": [
+        "Dopamine Nation",
+        "Simmariliom",
+        "Raízes do Brasil"
+    ],
+    "hobbies": {
+        "semana": "musculação",
+        "fim_de_semana": "shows"
+    }
+}

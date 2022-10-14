@@ -12,10 +12,12 @@
 <h2 align="center">Fundamentos estudados:</h2>
 
 
-➡️ Operaçoes<br><br>
-➡️ Condicionais<br><br>
-➡️ Loops<br><br>
-➡️ Manipulação de DOM<br><br>
-➡️ Estrutura de Dados.<br><br>
+➡️ Operaçoes<br>
+➡️ Condicionais<br>
+➡️ Loops<br>
+➡️ Manipulação de DOM<br>
+➡️ Estrutura de Dados.<br>
+➡️ Métodos Arrays (forEach, Map, Reduce)<br>
 ➡️ JavaScript Assíncrono<br><br>
-➡️ Promisses
+➡️ Promisses<br>
+➡️ Consumo de Apis<br>
